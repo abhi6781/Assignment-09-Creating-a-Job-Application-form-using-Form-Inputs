@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.main {
+    width: 750px;
+    margin: auto;
+    padding: 10px 0px;
+    /* border: 1px solid red; */
+}
+
+.outer-head {
+    width: 707px;
+    height: 70px;
+    margin-top: 40px;
+}
+
+.inner-head{
+    width: 300px;
+    height: 60px;
+    float: left;
+    margin-left: 40px;
+}
+
+.heading{
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.inputTag{
+    width: 300px;
+    height: 35px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid;
+    padding-left: 15px;
+    font-size: 16px;
+    border-bottom-width: 2px;
+}
+
+.outer-head1 {
+    width: 720px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.state{
+    width: 312px;
+    height: 38px;
+}
+
+
+
+.inner-head-address{
+    width: 640px;
+    height: 100px;
+    margin-left: 40px;
+}
+
+.inputTag-address{
+    width: 645px;
+    height: 60px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid;
+    padding-left: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border-bottom-width: 2px;
+}
+
+
+
+.gender{
+    width: 645px;
+    height: 60px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    padding: 17px 10px;
+    box-sizing: border-box;
+}
+
+
+.Qualification{
+    width: 645px;
+    border-radius: 5px;
+    border: 1px solid;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    padding: 17px 10px;
+    box-sizing: border-box;
+}
+
+.file{
+    width: 645px;
+    padding: 14px 10px;
+    box-sizing: border-box;
+}
+
+.btn{
+    width: 707px;
+    height: 70px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.btn button{
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    background-color: #9b59b6;
+    padding: 15px 30px;
+    margin-right: 20px;
+}
